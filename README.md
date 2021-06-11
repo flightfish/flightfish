@@ -1,4 +1,16 @@
-### Hi there 👋
+### flightfish 👋
+
+![](https://img.shields.io/badge/Major-CS-609929?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff))
+![](https://img.shields.io/badge/Use-G0/JAVA/PHP-0076ab?style=flat&logo=Python&logoColor=ffffff)
+![](https://img.shields.io/badge/Learn-JAVA-blueviolet?style=flat&logo=Visual%20Studio%20Code&logoColor=ffffff)
+![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=flightfish&show_icons=true&theme=gotham" alt="flightfish" />
+
+</details>
 
 <!--
 **flightfish/flightfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
